@@ -1,0 +1,7 @@
+references/style-profile.md
+**/style-profile.md
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.log
